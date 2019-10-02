@@ -219,3 +219,11 @@ body {
     border-right: 2px solid transparent;
     border-top: 20px solid #303030;
 }
+
+p {
+    text-align: center;
+    font-size: 2em;
+    color: steelblue;
+    font-family: cursive;
+    text-decoration: underline;
+}
